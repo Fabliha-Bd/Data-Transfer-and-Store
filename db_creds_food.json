@@ -1,0 +1,14 @@
+{
+    "user": "ds.team@replica-shohozfood",
+    "password": "eh*U2c8-rd@B9Qq^#",
+    "host": "replica-shohozfood.mysql.database.azure.com",
+    "port": 3306,
+    "db": "live_foods",
+    "table": "food_device_info",
+    "num_days": 7,
+    "user_col": "user_id",
+    "provider_col": "provider_id",
+    "user_device_col": "user_device_ads_id",
+    "provider_device_col": "provider_device_ads_id",
+    "db_write_single_device": "foods_device_fraud"
+}
